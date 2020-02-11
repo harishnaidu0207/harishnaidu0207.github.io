@@ -8,7 +8,7 @@ p{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color:indigo;
     background:white;
-    text-align:justify;
+    text-align:center;
     font-size: 24px;
 
 
@@ -31,8 +31,18 @@ h2{
 }
 li{
     font-family:forte;
-    color:black;
-    background-color:white;
-    text-align: center;
+    color:red;
+
+    text-align: left;
     font-size: 30px;
+    font-stretch:extra-expanded;
+}
+ul{
+    font-family:forte;
+    font-display:fallback ;
+    color:black;
+    
+    text-align: left;
+    font-size: 30px;
+
 }
