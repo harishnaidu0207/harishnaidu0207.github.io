@@ -1,0 +1,38 @@
+h1{
+    font-family:forte;
+    color: yellow;
+    background-color: black;
+    text-align: center;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:indigo;
+    background:white;
+    text-align:justify;
+    font-size: 24px;
+
+
+}
+div{
+    height: 900px;
+    width: 2000px;
+    background-color:indigo;
+    font-size: 30px;
+    color: red;
+    background: url("books.jpg");
+}
+h2{
+    font-family:forte;
+    color:yellow;
+    background-color:black;
+    text-align: center;
+    font-size: 38px;
+
+}
+li{
+    font-family:forte;
+    color:black;
+    background-color:white;
+    text-align: center;
+    font-size: 30px;
+}
